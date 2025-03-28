@@ -1,6 +1,6 @@
 using System;
 
-namespace MyRPG
+namespace MyGame
 {
     public class Enemy
     {
