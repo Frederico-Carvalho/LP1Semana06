@@ -46,7 +46,6 @@ namespace MyGame
             name = newName.Substring(0, Math.Min(8, newName.Length));
         }
 
-
         public void TakeDamage(float damage)
         {
             shield -= damage;
