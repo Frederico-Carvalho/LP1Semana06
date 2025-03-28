@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronos", "Chronos\Chronos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTest", "RandomTest\RandomTest.csproj", "{CDF713F2-8429-4173-BEB3-8B978C5CAE03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRPG", "MyRPG\MyRPG.csproj", "{3978AB4D-C848-428A-9138-CC17D3C0D1EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{CDF713F2-8429-4173-BEB3-8B978C5CAE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDF713F2-8429-4173-BEB3-8B978C5CAE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDF713F2-8429-4173-BEB3-8B978C5CAE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3978AB4D-C848-428A-9138-CC17D3C0D1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3978AB4D-C848-428A-9138-CC17D3C0D1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3978AB4D-C848-428A-9138-CC17D3C0D1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3978AB4D-C848-428A-9138-CC17D3C0D1EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
