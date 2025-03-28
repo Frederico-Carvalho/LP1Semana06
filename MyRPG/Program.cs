@@ -12,7 +12,7 @@ namespace MyRPG
             gl.SetEnemyInRoom(7, new Enemy("Picard"));
             gl.SetEnemyInRoom(16, new Enemy("Data"));
             gl.SetEnemyInRoom(94, new Enemy("Riker"));
-            gl.SetEnemyInRoom(59, new Enemy("Troi"))
+            gl.SetEnemyInRoom(59, new Enemy("Troi"));
 
             Console.WriteLine($"Difficulty: {gl.GetHardness()}");
 
