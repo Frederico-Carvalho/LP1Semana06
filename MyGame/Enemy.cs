@@ -45,6 +45,7 @@ namespace MyGame
         {
             name = newName.Substring(0, Math.Min(8, newName.Length));
         }
+
         public void PickupPowerUp(PowerUp powerUp, float value)
         {
             totalPowerUpsCollected++;
